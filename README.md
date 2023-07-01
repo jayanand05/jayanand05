@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Ethereum blockchain related projects**
 
-- 💬 Ask me about **Solidity, Hardhat**
+- 💬 Ask me about **Solidity, Hardhat, Blockchain**
 
 - 📫 You can contact me at **jayanand680@gmail.com**
 
