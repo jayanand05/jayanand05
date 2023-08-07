@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Solidity, Blockchain**
 
+- 🌱 Currently trying hands on **MERN stack** by building some projects
+
 - 📫 You can contact me at **jayanand680@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
