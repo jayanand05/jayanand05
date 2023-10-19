@@ -1,4 +1,4 @@
-![logo](https://github.com/jayanand05/jayanand05/blob/main/github-header-image.png) jbjnjn
+![logo](https://github.com/jayanand05/jayanand05/blob/main/github-header-image.png) 
 <h1 align="center">Hi 👋, I'm Jay Anand</h1>
 <h3 align="center">A passionate fullstack blockchain developer from India</h3>
 
