@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jayanand27" target="blank"><img src="https://img.shields.io/twitter/follow/jayanand27?logo=twitter&style=for-the-badge" alt="jayanand27" /></a> </p>
 
-- 👯 Open to collaborate on **Ethereum blockchain related projects**
+- 👯 Open to collaborate on **Really Cool projects , System level projects**
 
 - 💬 Ask me about **Solidity, Blockchain, MERN, DSA, System Design**
 
-- 🌱 Currently trying to understand how things work under the hood!
+- 🌱 Currently trying to understand how system architecture work under the hood!
 
 - 📫 You can contact me at **jayanand680@gmail.com**
 
