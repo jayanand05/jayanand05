@@ -9,9 +9,9 @@
 
 - 👯 Open to collaborate on **Ethereum blockchain related projects**
 
-- 💬 Ask me about **Solidity, Blockchain**
+- 💬 Ask me about **Solidity, Blockchain, MERN, DSA, System Design**
 
-- 🌱 Currently trying hands on coolest projects!
+- 🌱 Currently trying to understand how things work under the hood!
 
 - 📫 You can contact me at **jayanand680@gmail.com**
 
