@@ -37,6 +37,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanand05&show_icons=true&locale=en&layout=compact&langs_count=100" alt="jayanand05" /></p>
+<p> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=jayanand05&layout=compact&langs_count=20" alt="Top Languages"/> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanand05&" alt="jayanand05" /></p>
